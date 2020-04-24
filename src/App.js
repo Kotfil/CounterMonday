@@ -11,7 +11,7 @@ class App extends React.Component {
         changeButtonStyleInc: false,
         changeButtonStyleReset: true,
     };
-
+//posts
 
     doIncrement = () => {
         const newValue = this.state.counter + 1;
